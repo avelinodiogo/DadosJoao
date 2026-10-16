@@ -23,11 +23,6 @@
           "weight": 1
         },
         {
-          "name": "Contabilidade",
-          "status": "Construção",
-          "weight": 1
-        },
-        {
           "name": "Matéria 5",
           "status": "Aguardando",
           "weight": 1
@@ -84,7 +79,7 @@
         }
       ]
     },
-    "updatedAt": ""
+    "updatedAt": "2026-10-16T00:42:46.289Z"
   },
   "sessions": [],
   "reviewPlans": [],
@@ -161,22 +156,17 @@
       "date": "2026-10-15",
       "blocks": [
         {
-          "subject": "Constitucional",
-          "status": "Consolidação",
-          "minutes": 48
-        },
-        {
           "subject": "Administrativo",
           "status": "Construção",
-          "minutes": 96
+          "minutes": 120
         },
         {
-          "subject": "Contabilidade",
+          "subject": "Português",
           "status": "Construção",
-          "minutes": 96
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-16T00:20:34.462Z"
+      "updatedAt": "2026-10-16T00:42:46.288Z"
     },
     {
       "id": "plan:2026-10-16",
@@ -185,20 +175,15 @@
         {
           "subject": "Constitucional",
           "status": "Consolidação",
-          "minutes": 48
+          "minutes": 120
         },
         {
-          "subject": "Português",
+          "subject": "Administrativo",
           "status": "Construção",
-          "minutes": 96
-        },
-        {
-          "subject": "Contabilidade",
-          "status": "Construção",
-          "minutes": 96
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-16T00:20:34.462Z"
+      "updatedAt": "2026-10-16T00:42:46.288Z"
     },
     {
       "id": "plan:2026-10-17",
@@ -207,20 +192,15 @@
         {
           "subject": "Constitucional",
           "status": "Consolidação",
-          "minutes": 48
-        },
-        {
-          "subject": "Administrativo",
-          "status": "Construção",
-          "minutes": 96
+          "minutes": 120
         },
         {
           "subject": "Português",
           "status": "Construção",
-          "minutes": 96
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-16T00:20:34.462Z"
+      "updatedAt": "2026-10-16T00:42:46.288Z"
     }
   ],
   "reflections": []
