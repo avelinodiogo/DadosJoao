@@ -2,14 +2,14 @@
   "schema": 4,
   "planner": {
     "value": {
-      "daily": 240,
-      "cap": 120,
+      "daily": 360,
+      "cap": 180,
       "days": 6,
-      "perday": "auto",
+      "perday": "2",
       "subjects": [
         {
           "name": "Constitucional",
-          "status": "Consolidação",
+          "status": "Construção",
           "weight": 1
         },
         {
@@ -23,8 +23,8 @@
           "weight": 1
         },
         {
-          "name": "Matéria 5",
-          "status": "Aguardando",
+          "name": "RLM",
+          "status": "Construção",
           "weight": 1
         },
         {
@@ -79,7 +79,7 @@
         }
       ]
     },
-    "updatedAt": "2026-10-16T00:42:46.289Z"
+    "updatedAt": "2026-10-16T00:56:57.203Z"
   },
   "sessions": [],
   "reviewPlans": [],
@@ -156,17 +156,17 @@
       "date": "2026-10-15",
       "blocks": [
         {
-          "subject": "Administrativo",
-          "status": "Construção",
-          "minutes": 120
-        },
-        {
           "subject": "Português",
           "status": "Construção",
-          "minutes": 120
+          "minutes": 180
+        },
+        {
+          "subject": "Constitucional",
+          "status": "Construção",
+          "minutes": 180
         }
       ],
-      "updatedAt": "2026-10-16T00:42:46.288Z"
+      "updatedAt": "2026-10-16T00:56:57.202Z"
     },
     {
       "id": "plan:2026-10-16",
@@ -174,33 +174,33 @@
       "blocks": [
         {
           "subject": "Constitucional",
-          "status": "Consolidação",
-          "minutes": 120
+          "status": "Construção",
+          "minutes": 180
         },
         {
           "subject": "Administrativo",
           "status": "Construção",
-          "minutes": 120
+          "minutes": 180
         }
       ],
-      "updatedAt": "2026-10-16T00:42:46.288Z"
+      "updatedAt": "2026-10-16T00:56:57.202Z"
     },
     {
       "id": "plan:2026-10-17",
       "date": "2026-10-17",
       "blocks": [
         {
-          "subject": "Constitucional",
-          "status": "Consolidação",
-          "minutes": 120
-        },
-        {
           "subject": "Português",
           "status": "Construção",
-          "minutes": 120
+          "minutes": 180
+        },
+        {
+          "subject": "RLM",
+          "status": "Construção",
+          "minutes": 180
         }
       ],
-      "updatedAt": "2026-10-16T00:42:46.288Z"
+      "updatedAt": "2026-10-16T00:56:57.202Z"
     }
   ],
   "reflections": []
