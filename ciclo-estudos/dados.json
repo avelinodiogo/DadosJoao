@@ -1,0 +1,227 @@
+{
+  "schema": 4,
+  "planner": {
+    "value": {
+      "daily": 240,
+      "cap": 120,
+      "days": 6,
+      "perday": "auto",
+      "subjects": [
+        {
+          "name": "Constitucional",
+          "status": "Consolidação",
+          "weight": 1
+        },
+        {
+          "name": "Administrativo",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Português",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Contabilidade",
+          "status": "Construção",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 5",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 6",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 7",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 8",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 9",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 10",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 11",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 12",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 13",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 14",
+          "status": "Aguardando",
+          "weight": 1
+        },
+        {
+          "name": "Matéria 15",
+          "status": "Aguardando",
+          "weight": 1
+        }
+      ]
+    },
+    "updatedAt": ""
+  },
+  "sessions": [],
+  "reviewPlans": [],
+  "reviews": [],
+  "planDays": [
+    {
+      "id": "plan:2026-10-12",
+      "date": "2026-10-12",
+      "blocks": [
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Contabilidade",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    },
+    {
+      "id": "plan:2026-10-13",
+      "date": "2026-10-13",
+      "blocks": [
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Contabilidade",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    },
+    {
+      "id": "plan:2026-10-14",
+      "date": "2026-10-14",
+      "blocks": [
+        {
+          "subject": "Contabilidade",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 80
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 80
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    },
+    {
+      "id": "plan:2026-10-15",
+      "date": "2026-10-15",
+      "blocks": [
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Contabilidade",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    },
+    {
+      "id": "plan:2026-10-16",
+      "date": "2026-10-16",
+      "blocks": [
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Contabilidade",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    },
+    {
+      "id": "plan:2026-10-17",
+      "date": "2026-10-17",
+      "blocks": [
+        {
+          "subject": "Constitucional",
+          "status": "Consolidação",
+          "minutes": 48
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 96
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 96
+        }
+      ],
+      "updatedAt": "2026-10-16T00:20:34.462Z"
+    }
+  ],
+  "reflections": []
+}
