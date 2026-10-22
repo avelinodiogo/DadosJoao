@@ -5,7 +5,7 @@
       "daily": 360,
       "cap": 180,
       "days": 6,
-      "perday": "2",
+      "perday": "3",
       "subjects": [
         {
           "name": "Constitucional",
@@ -79,9 +79,38 @@
         }
       ]
     },
-    "updatedAt": "2026-10-16T01:13:48.519Z"
+    "updatedAt": "2026-10-20T22:21:20.194Z"
   },
-  "sessions": [],
+  "sessions": [
+    {
+      "id": "61dfddd7-ebb1-4534-8989-cd935ef0a02c",
+      "group": "d198f7f5-6a5e-45ef-98c1-a1e5891fd4d1",
+      "date": "2026-10-20",
+      "subject": "Constitucional",
+      "topic": "",
+      "kind": "study",
+      "seconds": 10942,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-20T18:52:45.798Z",
+      "updatedAt": "2026-10-20T18:52:45.798Z",
+      "deleted": false
+    },
+    {
+      "id": "a787abcd-4547-48d2-8205-52b12aef32ac",
+      "group": "c3525668-4d74-49fc-bdb6-ef545bc782fb",
+      "date": "2026-10-22",
+      "subject": "Constitucional",
+      "topic": "",
+      "kind": "study",
+      "seconds": 7208,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-22T19:56:08.657Z",
+      "updatedAt": "2026-10-22T19:56:08.657Z",
+      "deleted": false
+    }
+  ],
   "reviewPlans": [],
   "reviews": [],
   "planDays": [
@@ -226,49 +255,64 @@
         {
           "subject": "Constitucional",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 120
         },
         {
           "subject": "RLM",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-20T11:31:33.964Z"
+      "updatedAt": "2026-10-20T22:21:20.191Z"
     },
     {
       "id": "plan:2026-10-21",
       "date": "2026-10-21",
       "blocks": [
         {
-          "subject": "RLM",
-          "status": "Construção",
-          "minutes": 180
-        },
-        {
           "subject": "Administrativo",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 120
+        },
+        {
+          "subject": "RLM",
+          "status": "Construção",
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-20T11:31:33.964Z"
+      "updatedAt": "2026-10-20T22:21:20.191Z"
     },
     {
       "id": "plan:2026-10-22",
       "date": "2026-10-22",
       "blocks": [
         {
-          "subject": "Português",
-          "status": "Construção",
-          "minutes": 180
-        },
-        {
           "subject": "Constitucional",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 120
+        },
+        {
+          "subject": "RLM",
+          "status": "Construção",
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-20T11:31:33.964Z"
+      "updatedAt": "2026-10-20T22:21:20.191Z"
     },
     {
       "id": "plan:2026-10-23",
@@ -277,32 +321,42 @@
         {
           "subject": "Constitucional",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
         },
         {
           "subject": "Administrativo",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
+        },
+        {
+          "subject": "Português",
+          "status": "Construção",
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-20T11:31:33.964Z"
+      "updatedAt": "2026-10-20T22:21:20.191Z"
     },
     {
       "id": "plan:2026-10-24",
       "date": "2026-10-24",
       "blocks": [
         {
-          "subject": "Português",
+          "subject": "Constitucional",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
+        },
+        {
+          "subject": "Administrativo",
+          "status": "Construção",
+          "minutes": 120
         },
         {
           "subject": "RLM",
           "status": "Construção",
-          "minutes": 180
+          "minutes": 120
         }
       ],
-      "updatedAt": "2026-10-20T11:31:33.964Z"
+      "updatedAt": "2026-10-20T22:21:20.191Z"
     }
   ],
   "reflections": []
