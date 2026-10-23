@@ -97,6 +97,20 @@
       "deleted": false
     },
     {
+      "id": "8f894e05-d9cd-494f-8542-83c29bad4e4d",
+      "group": "55563f39-43ee-4235-980f-78fe5443084d",
+      "date": "2026-10-22",
+      "subject": "Constitucional",
+      "topic": "",
+      "kind": "study",
+      "seconds": 4,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-23T00:28:47.357Z",
+      "updatedAt": "2026-10-23T00:28:47.357Z",
+      "deleted": false
+    },
+    {
       "id": "a787abcd-4547-48d2-8205-52b12aef32ac",
       "group": "c3525668-4d74-49fc-bdb6-ef545bc782fb",
       "date": "2026-10-22",
