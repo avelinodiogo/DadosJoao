@@ -137,6 +137,20 @@
       "createdAt": "2026-10-23T02:55:30.067Z",
       "updatedAt": "2026-10-23T02:55:30.067Z",
       "deleted": false
+    },
+    {
+      "id": "be1b30d9-b146-4d1f-be48-8ec39396b580",
+      "group": "41bb17bb-7fa6-40a0-afce-70a7272b7908",
+      "date": "2026-10-26",
+      "subject": "Constitucional",
+      "topic": "",
+      "kind": "study",
+      "seconds": 5420,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-26T23:14:05.860Z",
+      "updatedAt": "2026-10-26T23:14:05.860Z",
+      "deleted": false
     }
   ],
   "reviewPlans": [],
