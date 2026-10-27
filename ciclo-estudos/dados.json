@@ -151,6 +151,34 @@
       "createdAt": "2026-10-26T23:14:05.860Z",
       "updatedAt": "2026-10-26T23:14:05.860Z",
       "deleted": false
+    },
+    {
+      "id": "c883f89c-1453-46d3-a3a8-d0f9c0456cdf",
+      "group": "85bb0d15-b71b-4436-9eee-e5057c0f275b",
+      "date": "2026-10-27",
+      "subject": "Administrativo",
+      "topic": "",
+      "kind": "study",
+      "seconds": 5,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-27T03:00:16.041Z",
+      "updatedAt": "2026-10-27T03:00:16.041Z",
+      "deleted": false
+    },
+    {
+      "id": "fb3de8b8-fe4d-4b6b-9ea6-8cde86867074",
+      "group": "85bb0d15-b71b-4436-9eee-e5057c0f275b",
+      "date": "2026-10-26",
+      "subject": "Administrativo",
+      "topic": "",
+      "kind": "study",
+      "seconds": 3085,
+      "source": "timer",
+      "note": "",
+      "createdAt": "2026-10-27T03:00:16.041Z",
+      "updatedAt": "2026-10-27T03:00:16.041Z",
+      "deleted": false
     }
   ],
   "reviewPlans": [],
