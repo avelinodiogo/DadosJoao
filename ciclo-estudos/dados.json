@@ -8,7 +8,8 @@
 {"id":"b00ac4af-2c62-48b3-afd4-15b21ba47892","group":"fd47eb60-7d57-4609-b796-e1e35cb233d5","date":"2026-10-22","subject":"RLM","topic":"","kind":"study","seconds":2834,"source":"timer","note":"","createdAt":"2026-10-23T02:55:30.067Z","updatedAt":"2026-10-29T21:27:19.023Z","deleted":true},
 {"id":"be1b30d9-b146-4d1f-be48-8ec39396b580","group":"41bb17bb-7fa6-40a0-afce-70a7272b7908","date":"2026-10-26","subject":"Constitucional","topic":"","kind":"study","seconds":5420,"source":"timer","note":"","createdAt":"2026-10-26T23:14:05.860Z","updatedAt":"2026-10-29T21:27:38.447Z","deleted":true},
 {"id":"c883f89c-1453-46d3-a3a8-d0f9c0456cdf","group":"85bb0d15-b71b-4436-9eee-e5057c0f275b","date":"2026-10-27","subject":"Administrativo","topic":"","kind":"study","seconds":5,"source":"timer","note":"","createdAt":"2026-10-27T03:00:16.041Z","updatedAt":"2026-10-27T03:01:20.186Z","deleted":true},
-{"id":"fb3de8b8-fe4d-4b6b-9ea6-8cde86867074","group":"85bb0d15-b71b-4436-9eee-e5057c0f275b","date":"2026-10-26","subject":"Administrativo","topic":"","kind":"study","seconds":3085,"source":"timer","note":"","createdAt":"2026-10-27T03:00:16.041Z","updatedAt":"2026-10-29T21:27:40.726Z","deleted":true}
+{"id":"fb3de8b8-fe4d-4b6b-9ea6-8cde86867074","group":"85bb0d15-b71b-4436-9eee-e5057c0f275b","date":"2026-10-26","subject":"Administrativo","topic":"","kind":"study","seconds":3085,"source":"timer","note":"","createdAt":"2026-10-27T03:00:16.041Z","updatedAt":"2026-10-29T21:27:40.726Z","deleted":true},
+{"id":"fe1391da-42d5-489a-ad5c-4825b672af71","date":"2026-10-29","subject":"Constitucional","topic":"","kind":"study","seconds":5400,"source":"manual","note":"","createdAt":"2026-10-29T22:24:40.652Z","updatedAt":"2026-10-29T22:24:40.652Z","deleted":false}
 ],
 "reviewPlans":[],
 "reviews":[],
